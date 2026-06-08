@@ -6,7 +6,7 @@ The project was trained on an industrial object detection dataset and optimized 
 
 ---
 
-# 🚀 Key Features
+# Key Features
 - Real-time industrial object detection using YOLOv8
 - Multi-object tracking with ByteTrack and Kalman Filters
 - 6D pose estimation using OpenCV solvePnP
@@ -16,7 +16,7 @@ The project was trained on an industrial object detection dataset and optimized 
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 - Python
 - YOLOv8 (Ultralytics)
 - OpenCV
@@ -28,7 +28,7 @@ The project was trained on an industrial object detection dataset and optimized 
 
 ---
 
-# 📌 Applications
+# Applications
 - Robotic Assembly Systems
 - Aerospace Manufacturing
 - Smart Factory Automation
@@ -37,34 +37,14 @@ The project was trained on an industrial object detection dataset and optimized 
 
 ---
 
-# 📊 Performance
+# Performance
 - Achieved ~38 FPS real-time inference
 - Optimized ONNX deployment pipeline
 - Real-time industrial object perception capability
 
 ---
 
-# 🔄 Project Workflow
-
-```text
-Dataset
-   ↓
-YOLOv8 Training
-   ↓
-Object Detection
-   ↓
-Multi-Object Tracking
-   ↓
-6D Pose Estimation
-   ↓
-ONNX Optimization
-   ↓
-Streamlit Deployment
-```
-
----
-
-# 📂 Project Modules
+# Project Modules
 - Industrial Dataset Preparation
 - YOLOv8 Custom Training
 - Real-Time Object Detection
@@ -77,5 +57,5 @@ Streamlit Deployment
 
 ---
 
-# 🎯 Industrial Relevance
+# Industrial Relevance
 This project simulates a real-time robotic perception pipeline used in aerospace and industrial manufacturing environments where robots must detect, track, localize, and analyze objects for automated assembly and inspection workflows.
