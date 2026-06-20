@@ -1,4 +1,4 @@
-# Real-Time Robotic Perception System for Industrial Assembly
+# Industrial Object Detection and 6D Pose Estimation for Robotics
 
 An industry-oriented Computer Vision and Robotics project developed for real-time industrial object perception and robotic assembly applications. The system integrates YOLOv8-based object detection, ByteTrack multi-object tracking, Kalman-filter-based motion estimation, and 6D pose estimation using OpenCV ArUco markers and solvePnP.
 
