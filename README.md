@@ -1,4 +1,4 @@
-# 🤖 Real-Time Industrial Object Detection, Tracking and Pose Estimation System
+# Real-Time Industrial Object Detection, Tracking and Pose Estimation System
 
 A comprehensive Computer Vision system designed for real-time industrial object perception and monitoring. The project combines deep learning–based object detection, multi-object tracking, pose estimation, model optimization, and web deployment to create a complete industrial vision pipeline suitable for automation and robotics applications.
 
@@ -6,7 +6,7 @@ The system leverages YOLOv8 for industrial object detection, ByteTrack for multi
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Industrial environments require intelligent vision systems capable of detecting, tracking, and understanding object movement in real time. This project addresses that need by developing an end-to-end perception pipeline that can identify industrial objects, maintain object identities across frames, estimate object position and orientation, and provide deployment-ready inference performance.
 
@@ -14,7 +14,7 @@ The solution demonstrates how modern Computer Vision and AI techniques can be in
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - Real-time industrial object detection using YOLOv8
 - Multi-object tracking with ByteTrack
@@ -27,7 +27,7 @@ The solution demonstrates how modern Computer Vision and AI techniques can be in
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Programming Language
 - Python
@@ -54,7 +54,7 @@ The solution demonstrates how modern Computer Vision and AI techniques can be in
 
 ---
 
-## 📂 Project Components
+## Project Components
 
 ### 1. Industrial Object Detection
 Trained a custom YOLOv8 model on an industrial object dataset to detect multiple object categories in real time.
@@ -76,7 +76,7 @@ Built a Streamlit application that allows users to upload images and perform rea
 
 ---
 
-## 🎯 Industrial Applications
+## Industrial Applications
 
 - Smart Manufacturing
 - Industrial Automation
@@ -89,7 +89,7 @@ Built a Streamlit application that allows users to upload images and perform rea
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
 - Developed an end-to-end industrial computer vision pipeline.
 - Achieved real-time inference performance of approximately 38 FPS.
@@ -99,7 +99,7 @@ Built a Streamlit application that allows users to upload images and perform rea
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Real-time video stream processing
 - Advanced deep-learning-based 6D pose estimation
@@ -110,6 +110,6 @@ Built a Streamlit application that allows users to upload images and perform rea
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates a complete industrial perception system capable of detecting, tracking, and localizing industrial objects in real time. By integrating object detection, tracking, pose estimation, optimization, and deployment into a unified pipeline, the solution showcases practical applications of Computer Vision and AI in industrial automation and robotics environments.
